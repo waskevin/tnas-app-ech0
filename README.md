@@ -45,3 +45,10 @@ docker run -d --name ech0 --restart unless-stopped -e TZ=Asia/Shanghai sn0wl1n/e
 
 - 上游：https://ech0.app/
 - 镜像：https://hub.docker.com/r/sn0wl1n/ech0
+
+
+## 仓库文件
+
+- README.md：项目说明与双架构部署说明。
+- pp-metadata.json：镜像、版本和架构元数据。
+- docker-compose.yml：基础容器启动示例。
