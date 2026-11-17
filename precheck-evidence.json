@@ -1,0 +1,12 @@
+{
+  "number": 5,
+  "name": "Ech0",
+  "dual_arch": true,
+  "architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "evidence": "runtime_probe",
+  "precheck_status": "startup_failed",
+  "submission_status": "not_submitted"
+}
