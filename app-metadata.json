@@ -1,17 +1,13 @@
 {
-  "architectures": [
-    "amd64",
-    "arm64"
-  ],
-  "developer": "管浩良",
-  "submission_status": "not_submitted",
-  "number": 5,
-  "screenshot_status": "pending",
-  "dual_arch": true,
   "name": "Ech0",
   "source": "https://ech0.app/",
-  "screenshot_path": "precheck-screenshots/ech0/x86_64/run.png",
-  "developer_account": "k.kuan@qq.com",
-  "docker_hub": "sn0wl1n/ech0",
-  "tag": "v5.9.9"
+  "docker_image": "sn0wl1n/ech0:v5.9.9",
+  "version": "v5.9.9",
+  "repository": "https://github.com/waskevin/tnas-app-ech0",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "description": "Ech0 container application prepared for TerraMaster TOS",
+  "submission_status": "not_submitted"
 }
